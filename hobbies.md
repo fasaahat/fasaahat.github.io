@@ -8,7 +8,7 @@ modified: 9-14-2019
 comments: false
 ---
 Music 🎼 <br>
-Travel  🎒 <br>
+Travel  ✈ <br>
 Books 📚<br>
 
 
