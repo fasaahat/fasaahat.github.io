@@ -8,7 +8,7 @@ title: طراحی وب سایت
 خوشبختانه طراحی وبسایت برای درس آشنایی با رشته به عهده ی من قرار داده شد . <br>
 در این راستا با مشورت و کمک استاد مربوطه؛ دکتر اعتمادی؛ سایت مورد نظر در آدرس زیر قابل 
 دسترسی است. <br>
-* [College Orientation and Student Skills](https://sauleh.github.io/co98)
+[link](https://sauleh.github.io/co98)
 </div>
 
 
