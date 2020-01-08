@@ -8,9 +8,9 @@ title: طراحی وب سایت
 خوشبختانه طراحی وبسایت برای درس آشنایی با رشته به عهده ی من قرار داده شد . <br>
 در این راستا با مشورت و کمک استاد مربوطه؛ دکتر اعتمادی؛ سایت مورد نظر در آدرس زیر قابل 
 دسترسی است. <br>
-- [link](https://sauleh.github.io/co98)
-</div>
 
+</div>
+- [link](https://sauleh.github.io/co98)
 
 This is a sample post:
 - *Post* one and **post** two.
