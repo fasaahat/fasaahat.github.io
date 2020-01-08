@@ -112,8 +112,9 @@ author:
   bio              : student of computer engineering at IUST
   location         : "تهران"
   email            : pariyafesahat@gmail.com
-  twitter: 
+  twitter          : 
   linkedin         : pariya fesahat
+  calendly         :
 
 
   google_scholar: Q25s5KkAAAAJ
@@ -138,6 +139,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Calendly"
+      icon: "fab fa-fw fa-calendly"
+      # url: "https://calendly.com/"
 
 # Site Footer
 footer:
@@ -160,6 +164,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+      - label: "Calendly"
+      icon: "fab fa-fw fa-calendly"
+      # url: 
 
 
 # Reading Files
